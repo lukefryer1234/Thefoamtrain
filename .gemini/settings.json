@@ -1,0 +1,16 @@
+{
+  "general": {
+    "checkpointing": {
+      "enabled": true
+    }
+  },
+  "telemetry": {
+    "enabled": false
+  },
+  "ui": {
+    "showMemoryUsage": false
+  },
+  "tools": {
+    "sandbox": {}
+  }
+}

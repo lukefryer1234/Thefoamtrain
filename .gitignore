@@ -1,0 +1,27 @@
+# Gemini CLI temporary files
+.gemini/tmp/
+.gemini/checkpoints/
+.gemini/cache/
+
+# Node modules (if you add Node.js later)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
